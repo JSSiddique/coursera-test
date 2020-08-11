@@ -24,7 +24,7 @@ text-shadow: 2px 2px 3px #FFFF;
 	color:black;
 	font-size: 1.5em;
 }
-.container .row > div{
+.container .row{
 	background-color:pink;
 }
 hr{
