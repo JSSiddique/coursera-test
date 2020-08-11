@@ -1,0 +1,60 @@
+#main-heading{
+	background-color:grey;
+	border-radius: 0;
+	border:0;
+}
+#food{
+text-shadow: 2px 2px 3px #FFFF;
+}
+.navbar-brand span{
+	color:black;
+	margin:0;
+	padding:0;
+    float:left;
+    font-family: 'Roboto Slab', serif;
+	font-size: 2.2em;
+}
+#bs-example-navbar-collapse-1{
+	width:100%;
+}
+#chicken,#beef,#sushi{
+	text-align: center;
+}
+#content-heading{
+	color:black;
+	font-size: 1.5em;
+}
+.container .row > div{
+	background-color:pink;
+}
+hr{
+	margin:8px;
+}
+ul{
+font-family: 'Roboto', sans-serif;
+font-weight: bold;
+}
+h1{
+	font-family: 'Noto Serif', serif;
+}
+#paragraph{
+	font-family: 'Lemonada', cursive;
+}
+#content-heading{
+	font-family: 'Nunito', sans-serif;
+
+}
+@media (min-width: 992px){
+	ul{
+	display:none;
+}
+
+}
+@media (min-width: 768px) and (max-width: 991px){
+	ul{
+	display:none;
+}
+}
+@media(max-width: 767px){
+
+}
