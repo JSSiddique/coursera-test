@@ -1,2 +1,1 @@
-# coursera-test
-Coursera test repository
+Mobile is injurious to health
